@@ -26,8 +26,8 @@ Both of those have a problem that they cannot download the image files uploaded 
 
 `CodiMD Downloader Bookmarklet` solves it.
 
-## Licence
-[MIT](LICENCE)
+## License
+[MIT](LICENSE)
 
 ## Author
 [j3iiifn](https://github.com/j3iiifn)
